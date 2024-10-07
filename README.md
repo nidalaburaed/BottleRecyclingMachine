@@ -6,4 +6,4 @@ Bottle Machine SW - Official Repository
 
 ## Inqueries
 
-In case of inquires, feel free to send message via email to nidalaburaed94@gmail.com
+In case of inquiries, feel free to send message via email to nidalaburaed@hotmail.com
