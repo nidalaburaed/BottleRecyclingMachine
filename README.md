@@ -1,3 +1,3 @@
 # ASCII based Bottle Recycling System SW
 
-[Could you provide me a diagram for a Bottle Recycling System SW to illustrate the system overview]
+![image](https://github.com/user-attachments/assets/0616ea48-9639-4769-8711-b3e12c41a600)
